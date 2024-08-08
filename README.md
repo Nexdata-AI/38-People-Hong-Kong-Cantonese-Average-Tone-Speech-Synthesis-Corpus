@@ -3,7 +3,7 @@
 ## Description
 38 People - Hong Kong Cantonese Average Tone Speech Synthesis Corpus, It is recorded by Hong Kong native speakers. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1201?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/tts/1201?source=Github
 
 
 # Specifications
